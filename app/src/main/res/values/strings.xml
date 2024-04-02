@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Foodies</string>
+    <string name="button_back">Кнопка назад\n</string>
+    <string name="search_food">Найти блюдо</string>
+    <string name="fats">Жиры</string>
+    <string name="energy">Энерг. ценность</string>
+    <string name="proteins">Белки</string>
+    <string name="in_basket">В корзину за %1$s ₽</string>
+</resources>
